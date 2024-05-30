@@ -1,0 +1,30 @@
+body{
+    background-color: blue;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+#container{
+
+}
+.digit{
+    font-size: 150px;
+    font-weight: bold;
+}
+.txt{
+    font-size: 40px;
+}
+#buttons{
+    text-align: center;
+    margin-top: 40px;
+    
+}
+.btn{
+    padding:7px 25px;
+    font-size: 15px;
+    margin: 0px 10px;
+    color:black;
+    border:0px;
+    cursor:pointer;
+}
